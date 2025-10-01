@@ -8,7 +8,6 @@
   font-family: Arial, sans-serif;
 }
 
-/* Avatar */
 .avatar {
   width: 80px;
   height: 80px;
@@ -27,14 +26,12 @@
   font-weight: bold;
 }
 
-/* Nome abaixo do avatar */
 .name {
   font-size: 18px;
   font-weight: bold;
   margin: 8px 0 4px;
 }
 
-/* Bandeira */
 .flag {
   width: 30px;
   height: 20px;
@@ -44,7 +41,7 @@
   margin: 0 auto 10px;
 }
 
-/* XP */
+
 .xp-bar {
   background: #ccc;
   height: 10px;
@@ -90,7 +87,6 @@
   font-size: 18px;
 }
 
-/* Badges */
 .badges {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
